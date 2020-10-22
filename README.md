@@ -1,4 +1,4 @@
-# lakshmi
+######
 How do I stop and start Amazon EC2 instances at regular intervals using Lambda?
 Last updated: 2019-08-30
 
